@@ -19,7 +19,6 @@
 git clone https://github.com/lucikap/Brukamen package/Brukamen
 git clone https://github.com/Zxilly/UA2F package/UA2F
 git clone https://github.com/lucikap/luci-app-ua2f package/luci-app-ua2f
-git clone https://github.com/lucikap/luci-app-ua2f package/luci-app-ua2f
 git clone https://github.com/lucikap/luci-app-brukamen package/brukamen1
 
 
